@@ -8,7 +8,7 @@ example:
 EX1_3(8, 10) ➞ 17
 
 '''
-  if type(side1) == int and type(side2) == int:
+  if type (a) == int and type (a) == int:
        if a>0 and b>0:
         answer=a+b-1
         return answer
