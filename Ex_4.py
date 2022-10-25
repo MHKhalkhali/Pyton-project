@@ -1,4 +1,10 @@
 def EX1_4(a):
+    '''
+    (int)->(str)
+    in this function we calculate the day of the week with day number
+    example:
+    EX1_4(2) ➞ Tuesday
+    '''
     if a==1:
         return "Monday"
     elif a==2:
