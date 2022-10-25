@@ -1,6 +1,6 @@
 def EX1_1(a):
     '''
-(a)->b
+(int)->int
     
     return input added by 1
     
